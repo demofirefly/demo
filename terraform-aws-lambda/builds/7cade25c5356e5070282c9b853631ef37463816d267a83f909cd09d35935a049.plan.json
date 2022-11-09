@@ -1,0 +1,1 @@
+{"filename": "builds\\7cade25c5356e5070282c9b853631ef37463816d267a83f909cd09d35935a049.zip", "runtime": "python3.8", "artifacts_dir": "builds", "build_plan": [["zip", "C:/Work_Firefly/Demo/terraform-aws-lambda/hello.py", null]]}
